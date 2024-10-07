@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Duck Basil Mushrooms",
+    "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1453&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A flavorful stir-fry with duck, soy sauce, and fresh basil.",
+    "ingredients": [
+      "450 g duck breast",
+      "90 ml dark soy sauce",
+      "150 g Thai basil",
+      "300 g portobello mushrooms"
+    ],
+    "time": 30,
+    "calories": 400
+  },
+  {
+    "id": 2,
+    "name": "Risotto with Chanterelles and Basil",
+    "img": "https://images.unsplash.com/photo-1494390248081-4e521a5940db?q=80&w=1406&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Creamy risotto infused with chanterelle mushrooms and basil.",
+    "ingredients": [
+      "400 g arborio rice",
+      "120 ml dry white wine",
+      "100 g fresh basil",
+      "350 g chanterelle mushrooms"
+    ],
+    "time": 45,
+    "calories": 600
+  },
+  {
+    "id": 3,
+    "name": "Turkey Spinach Mushroom Soup",
+    "img": "https://images.unsplash.com/photo-1511909525232-61113c912358?q=80&w=1412&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A hearty soup packed with turkey, spinach, and mushrooms.",
+    "ingredients": [
+      "500 g diced turkey",
+      "80 ml tamari sauce",
+      "200 g spinach",
+      "400 g shiitake mushrooms"
+    ],
+    "time": 60,
+    "calories": 350
+  },
+  {
+    "id": 4,
+    "name": "Pork Stir-Fry with Sweet Basil",
+    "img": "https://images.unsplash.com/photo-1601315379734-425a469078de?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Quick and easy stir-fry with pork and sweet basil.",
+    "ingredients": [
+      "520 g pork tenderloin",
+      "100 ml teriyaki sauce",
+      "180 g sweet basil",
+      "360 g oyster mushrooms"
+    ],
+    "time": 20,
+    "calories": 450
+  },
+  {
+    "id": 5,
+    "name": "Spaghetti with Mushrooms and Thai Basil",
+    "img": "https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Delicious pasta with mushrooms and a hint of Thai basil.",
+    "ingredients": [
+      "600 g spaghetti",
+      "140 ml extra virgin olive oil",
+      "250 g Thai basil",
+      "280 g cremini mushrooms"
+    ],
+    "time": 25,
+    "calories": 550
+  },
+  {
+    "id": 6,
+    "name": "Beef with Hoisin Basil Sauce",
+    "img": "https://images.unsplash.com/photo-1601000938259-9e92002320b2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Oven-baked beef with a hoisin basil sauce and mushrooms.",
+    "ingredients": [
+      "530 g ground beef",
+      "130 ml hoisin sauce",
+      "240 g basil leaves",
+      "370 g mixed wild mushrooms"
+    ],
+    "time": 50,
+    "calories": 500
+  }
+]
